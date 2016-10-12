@@ -1,2 +1,2 @@
 server:
-	python -m SimpleHTTPServer
+	python -m SimpleHTTPServer 5100
