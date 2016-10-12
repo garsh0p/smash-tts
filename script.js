@@ -33,3 +33,8 @@ $('#form').keypress(function(e) {
 });
 
 clearForm();
+
+$('#player-1').autocomplete({
+  source: ['java', 'javascript'],
+  autoFocus: true
+});
